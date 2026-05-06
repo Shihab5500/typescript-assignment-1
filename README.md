@@ -16,4 +16,3 @@ If you want to test the code on your local machine, follow these steps:
 
 ## Technologies Used
 - TypeScript
-- Node.js
